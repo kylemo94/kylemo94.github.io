@@ -1,3 +1,19 @@
+  layout: essay
+type: essay
+title: Why asking a smart question is important
+date: 2019-01-23
+labels:
+  - Software Engineering
+  - javascript
+  - smart questions
+  - bad questions
+  
+  
+  
+  
+  
+  
+  
   What's the importance of asking smart questions when it comes to software engineering? By asking a smart question, you will be more likely
 to get an answer that will help you. By asking a bad question, you will most likely get an unsatisfactory answer. In the following
 examples you will see a smart question and a bad question. By comparing these two, you will be able to see the importance of
