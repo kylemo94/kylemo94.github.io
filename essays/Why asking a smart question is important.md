@@ -1,11 +1,14 @@
 ---
 layout: essay
 type: essay
-title: Igniting the fire
+title: Why asking smart questions is important
 date: 2019-01-23
 labels:
   - Software Engineering
   - Learning
+  - Javascript
+  - Smart quesitons
+  - Bad questions
 ---
   
   What's the importance of asking smart questions when it comes to software engineering? By asking a smart question, you will be more likely
