@@ -1,4 +1,5 @@
-  layout: essay
+---
+ layout: essay
 type: essay
 title: Why asking a smart question is important
 date: 2019-01-23
@@ -7,7 +8,7 @@ labels:
   - javascript
   - smart questions
   - bad questions
-  
+---  
   
   
   
