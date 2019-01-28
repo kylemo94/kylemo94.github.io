@@ -2,60 +2,44 @@
 layout: project
 type: project
 image: images/cotton-square.png
-title: Cotton
-permalink: projects/cotton
+title: ZipCode Check
+permalink: projects/ZipCode Check
 # All dates must be YYYY-MM-DD format!
-date: 2014-04-12
+date: 2017-11-30
 labels:
-  - Lisp
-  - GitHub
-summary: A text adventure game I developed for ICS 313.
+  - Html
+  - Atom
+  - Zipcode
+  - javascript
+summary: An assignment for ICS 215 to get familiar with html notation. 
 ---
 
-<img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
+<img class="" src="">
 
-Cotton is a horror-esque text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
+This program takes in a zipcode and uses regular expressions to check if the zipcode is a valid Hawaii zipcode.
+The program also implements the use of a checkbox to see if the user checked the box or not. Valid Hawaii Zipcodes are
+967?? or 968??. The appropriate message is outputted if the user entered a valid zipcode or not.
 
-To give you a flavor of the game, here is an excerpt from one run:
+By creating this program I became familiar with the use of script tags in html, so that I would be able to recognize where
+the javascript was inserted into html betweeen script tags. I also became familiar with manipulating html by using javascript.
 
-<hr>
+Here is an example of the javascript function used to test zipcodes:
+'''js
+function checkHiZip(inputZipParam) {
 
-<pre>
-You open your eyes, and you are greeted by an unfamiliar ceiling.
-Startled, you get to your feet and quickly scan your surroundings. It's
-dark except for the stream of light coming from a crack on the only boarded
-window in the room. You try to peek through the crack, but you cannot see
-anything. You wonder where you are and who could have possibly brought you here.
+      // HI ZIP codes are 968XX or 967XX.
+      var hiZipRegex = /^96[78]\d\d$/;
 
-<--------------------help------------------------>
-Enter quit or one of the following commands -
-Weld light look walk pickup inventory help h ?
-<------------------------------------------------>
+      // The <p> used to output feedback to the user.
+      var feedbackNode = document.getElementById("feedback");
 
-look
-The room is a picture of decay with only a faded number identifying it as room-4. The bed you were
- lying on is stained with what looks like dried blood. Could it be your blood? No - it is not. The
- only way out of the room aside from the door to the corridor is a window that is boarded shut. It
- looks like it has been like that for decades. There is a door going west from here. You see a candle
- on the floor. You see a match on the floor.
+      // Check if the user entered a HI ZIP code, output feedback in <p id="feedback">
+      if (hiZipRegex.test(inputZipParam)) {
+        feedbackNode.innerHTML = "Yes, that is a HI zip code";
+      } else {
+        feedbackNode.innerHTML = "No, that is NOT a HI zip code";
+      }
 
-pickup candle
-- you are now carrying the candle -
-
-pickup match
-- you are now carrying the match -
-
-light match candle
-
-The candle is now lit. It illuminates everything in the room.
-
-walk west
-The corridor is lit with the candle. It is so long that you cannot see to the end. You notice that
- there are words written on the wall. There is a door going east from here. There is a way going north
- from here. There is a door going south from here.
-</pre>
-
-<hr>
-
+    }
 Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
 
