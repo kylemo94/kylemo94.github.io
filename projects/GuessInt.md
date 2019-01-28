@@ -26,4 +26,3 @@ For this project I used atom to write my code, which is a program that supports 
 the first python assignment for this class I was able to see the similarities and differences between other programming 
 languages.
 
-details at https://github.com/kylemo94/kylemo94.github.io/blob/master/projects/GuessInt.md
