@@ -20,6 +20,11 @@ at an aquarium. I created 4 tables that had primary and secondary keys so that t
 all tables with at least 20 pieces of data. I also created queries of things a person working at an aquarium might want to see. For
 an example there is an employee schedule table. Also, I created forms in the database so that data insertion would be easier.
 
+By completing this project I became familiar with creating tables using SQL as well as joining tables. I was able to identify 
+relationships between tables. This project required lots of planning to organize the tables how I desired. To avoid redoing the
+database more than twice, an Entity-Relationship diagram was created to help organize the tables before actually creating the
+database.
+
 Here is an example of the SQL used to create the SharkInfo table:
 
 ```SQL
