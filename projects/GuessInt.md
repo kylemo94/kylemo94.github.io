@@ -17,13 +17,13 @@ summary: A little game where the user guesses the random integer generated for I
 <img class="" src="">
 
 GuessInteger is a program that I created for ICS 215. It implements the use of import and random function.
-
 The game randomly picks an integer between 1 and 10. Then the user tries to guess the number in 5 tries otherwise the game
 automatically exits and the appropriate message is displayed. The program tells the user if the guess inputted is either
-too high or too low, thus the player is able to deduce the number easily.
+too high or too low, thus the player is able to deduce the number easily. This program was used to get a feel of python
+and to get used to the different notations.
 
 For this project I used atom to write my code, which is a program that supports many programming lanugages. Since this was
-the first python assignment for this class I was able to see the similarities and differences between other programming 
+the first python assignment for this class I was able to see the similarities and differences between other programming
 languages.
 
 Example code below:
