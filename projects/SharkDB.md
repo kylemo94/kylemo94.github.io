@@ -40,6 +40,3 @@ Age CHAR(2) NOT NULL,
 CHECK (Age < 30 And Age > 0)
 );
 
-details at https://github.com/kylemo94/kylemo94.github.io/blob/master/projects/SharkDB.md
-
-
