@@ -2,24 +2,28 @@
 layout: project
 type: project
 image: images/vacay-square.png
-title: Vacay
-permalink: projects/vacay
+title: GuessInteger
+permalink: projects/guessInt
 # All dates must be YYYY-MM-DD format!
-date: 2015-12-15
+date: 2017-11-20
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+  - Random
+  - Atom
+  - python
+  - game
+summary: A little game where the user guesses the random integer generated for ICS 215.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
+<img class="" src="">
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
+GuessInteger is a program that I created for ICS 215. It implements the use of import and random function.
 
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
+The game randomly picks an integer between 1 and 10. Then the user tries to guess the number in 5 tries otherwise the game
+automatically exits and the appropriate message is displayed. The program tells the user if the guess inputted is either
+too high or too low, thus the player is able to deduce the number easily.
 
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
+For this project I used atom to write my code, which is a program that supports many programming lanugages. Since this was
+the first python assignment for this class I was able to see the similarities and differences between other programming 
+languages.
  
 Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>
