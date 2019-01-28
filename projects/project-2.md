@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
+image: images/numbers.jpg
 title: GuessInteger
 permalink: projects/guessInt
 # All dates must be YYYY-MM-DD format!
