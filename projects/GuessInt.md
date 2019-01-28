@@ -26,3 +26,24 @@ For this project I used atom to write my code, which is a program that supports 
 the first python assignment for this class I was able to see the similarities and differences between other programming 
 languages.
 
+Example code below:
+
+while(attempt != 5 and guess != randomNum):
+  #if guess is less than randomNum
+  if(guess < randomNum):
+    print("Too low, try again.");
+    #prompt user again
+    guess = input("Enter an integer between 1 and 10: ");
+    guess = int(guess);
+    #increment count
+    attempt += 1;
+  #if guess is greater than randomNum
+  if(guess > randomNum):
+    print("Too high, try again.");
+    #promt user again
+    guess = input("Enter an integer between 1 and 10: ");
+    guess = int(guess);
+    #increment count
+    attempt += 1;
+
+Source code provided on request.
