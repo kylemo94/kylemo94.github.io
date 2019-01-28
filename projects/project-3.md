@@ -21,9 +21,10 @@ The program also implements the use of a checkbox to see if the user checked the
 967?? or 968??. The appropriate message is outputted if the user entered a valid zipcode or not.
 
 By creating this program I became familiar with the use of script tags in html, so that I would be able to recognize where
-the javascript was inserted into html betweeen script tags. I also became familiar with manipulating html by using javascript.
+the javascript was inserted into html. I also became familiar with manipulating html by using javascript.
 
 Here is an example of the javascript function used to test zipcodes:
+
 '''js
 function checkHiZip(inputZipParam) {
 
@@ -41,5 +42,5 @@ function checkHiZip(inputZipParam) {
       }
 
     }
-Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
+
 
