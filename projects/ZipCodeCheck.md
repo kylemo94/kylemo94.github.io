@@ -42,5 +42,4 @@ function checkHiZip(inputZipParam) {
       }
 
     }
-
-details at https://github.com/kylemo94/kylemo94.github.io/blob/master/projects/ZipCodeCheck.md
+Source code provided on request.
