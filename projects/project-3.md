@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/cotton-square.png
+image: images/hawaii.jpg
 title: ZipCode Check
 permalink: projects/ZipCode Check
 # All dates must be YYYY-MM-DD format!
