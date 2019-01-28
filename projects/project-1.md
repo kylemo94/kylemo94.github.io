@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: shark.png
+image: shark1.png
 title: SharksDatabase
 permalink: projects/sharkDB
 # All dates must be YYYY-MM-DD format!
