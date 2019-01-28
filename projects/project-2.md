@@ -25,5 +25,4 @@ too high or too low, thus the player is able to deduce the number easily.
 For this project I used atom to write my code, which is a program that supports many programming lanugages. Since this was
 the first python assignment for this class I was able to see the similarities and differences between other programming 
 languages.
- 
-Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>
+
