@@ -21,5 +21,5 @@ This program was created with the intention of linking students and companies to
 
 I worked on the validation of the forms on our page as well as the student homepage and admin homepage. The student homepage was later combined with another page because the two pages seemed like they would go together. On my form validations I used different event handlers depending on what I wanted the event handler to do. By completing this project I learned different ways to use the event handlers as well as learn how to use the autoform validation. This was important to me because this was something that was not previously touched on in class and had to do some research about to apply it properly.
 
-Link to Uhire on Github: [Uhire](https://github.com/uhire)
+Link to Uhire on Github: [Uhire](https://github.com/uhire)  
 Source code provided on request.
