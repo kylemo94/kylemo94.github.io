@@ -12,8 +12,7 @@ labels:
 summary: I developed a database for an aquarium concentrated on sharks.
 ---
 
-<div class="ui small rounded images">
-</div>
+<img class="" src="/images/SharkDBExample.png">
 
 For this project, I needed to develop a theoretical database for a subject of my choice. I chose to develop a database for sharks
 at an aquarium. I created 4 tables that had primary and secondary keys so that there were relationships between tables. I filled 
