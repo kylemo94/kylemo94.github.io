@@ -12,7 +12,7 @@ labels:
 
 After completing the second week of school and getting some hands on experience from using javascript, 
 I think javascript is a fun language to learn. I like using javascript because it lets me declare variables without declaring a data type.
-For example in java you would declare an integer value as int num = 0;, but in javascript you can declare your integer value as let num = 0;. In javascript instead of using different data types to declare variables you can just use let or var to initialize your variables.
+For example in java you would declare an integer value as int num = 0;, but in javascript you can declare your integer value as let num = 0;. In javascript instead of using different data types to declare variables you can just use let, const, or var to initialize your variables, depending on what you plan on doing with your declared variables.
 
 ## Usefullness
 
