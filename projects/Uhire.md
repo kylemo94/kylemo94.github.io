@@ -15,7 +15,7 @@ labels:
 summary: A group project that required the use of meteor-react, Intellij and underscore. 
 ---
 
-<img class="" src="images/FinalSignUp">
+<img class="" src="/images/FinalSignUp.png">
 
 This program was created with the intention of linking students and companies together. The students are able to look for companies that they are interested in and apply for the positions that they are qualified for. The companies can look at the student profiles and contact the students if they are interested. The students are able to search for companies using interest tags as well as by company name, while the companies can search for students by last name and interest tags. 
 
