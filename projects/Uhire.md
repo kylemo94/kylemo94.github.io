@@ -1,17 +1,17 @@
 ---
 layout: project
 type: project
-image: images/Logo.jpg
-title: Uhire
+image: images/Logo.png
+title: SharksDatabase
+permalink: projects/sharkDB
 # All dates must be YYYY-MM-DD format!
-date: 2019-5-7
+date: 2017-12-08
 labels:
-  - javascript
-  - meteor
-  - react
-  - underscore
-  - Galaxy
-summary: A group project that required the use of meteor-react, Intellij and underscore. 
+  - Database
+  - Microsoft Access
+  - SQL
+summary: I developed a database for an aquarium concentrated on sharks.
+---
 ---
 
 ## Background
