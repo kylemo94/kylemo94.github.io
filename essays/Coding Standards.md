@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Hol upMy First Week Using ESLint & IntelliJ
+title: My First Week Using ESLint & IntelliJ
 date: 2019-01-27
 labels:
   - Software Engineering
