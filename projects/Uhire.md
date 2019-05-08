@@ -7,9 +7,10 @@ permalink: projects/sharkDB
 # All dates must be YYYY-MM-DD format!
 date: 2017-12-08
 labels:
-  - Database
-  - Microsoft Access
-  - SQL
+  - Uhire
+  - Javascript
+  - semantic-meteor-react
+  - Intellij
 summary: I developed a database for an aquarium concentrated on sharks.
 ---
 ---
