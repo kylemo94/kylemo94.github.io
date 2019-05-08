@@ -1,9 +1,9 @@
 ---
 layout: project
 type: project
-image: images/hawaii.jpg
-title: ZipCode Check
-permalink: projects/ZipCode Check
+image: images/Logo.jpg
+title: Uhire
+permalink: projects/Uhire
 # All dates must be YYYY-MM-DD format!
 date: 2019-5-7
 labels:
