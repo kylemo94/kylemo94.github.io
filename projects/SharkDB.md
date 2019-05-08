@@ -28,16 +28,16 @@ database.
 Here is an example of the SQL used to create the SharkInfo table:
 
 ```SQL
-CREATE TABLE SharkInfo(
-SharkId CHAR(20) NOT NULL UNIQUE,
-FOREIGN KEY (SharkId) REFERENCES Sharks(SharkId),
-SharkType CHAR(20) NOT NULL,
-ScientificName CHAR(50) NOT NULL,
-Gender CHAR(7) NOT NULL,
-[Length(ft)] DOUBLE NOT NULL,
-[Weight(lbs)] DOUBLE NOT NULL,
-Age CHAR(2) NOT NULL,
-CHECK (Age < 30 And Age > 0)
-);
+CREATE TABLE SharkInfo(  
+SharkId CHAR(20) NOT NULL UNIQUE,  
+FOREIGN KEY (SharkId) REFERENCES Sharks(SharkId),  
+SharkType CHAR(20) NOT NULL,  
+ScientificName CHAR(50) NOT NULL,  
+Gender CHAR(7) NOT NULL,  
+[Length(ft)] DOUBLE NOT NULL,  
+[Weight(lbs)] DOUBLE NOT NULL,  
+Age CHAR(2) NOT NULL,  
+CHECK (Age < 30 And Age > 0)  
+);  
 
 Database provided on request.
