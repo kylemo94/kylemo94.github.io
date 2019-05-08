@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/Logo.jpg
-title: SharksDatabase
+title: Uhire
 permalink: projects/sharkDB
 # All dates must be YYYY-MM-DD format!
 date: 2017-12-08
@@ -11,7 +11,7 @@ labels:
   - Javascript
   - semantic-meteor-react
   - Intellij
-summary: I developed a database for an aquarium concentrated on sharks.
+summary: Group developed a working application that connects students and companies.
 ---
 ---
 
