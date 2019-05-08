@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/Logo.jpg
 title: Uhire
-permalink: projects/sharkDB
+permalink: projects/uhire
 # All dates must be YYYY-MM-DD format!
 date: 2017-12-08
 labels:
